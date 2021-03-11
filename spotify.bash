@@ -16,4 +16,4 @@ c=${targets[17]} # song url
 final="${a},${b},${c}"
 echo Saved $a
 echo $final >> /home/$USER/spotify-saver/spotify_music.csv
-> spotify_music.txt
+> /home/$USER/spotify-saver/spotify_music.txt
